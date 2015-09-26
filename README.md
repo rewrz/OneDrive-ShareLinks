@@ -13,3 +13,6 @@
 - 32位、64位系统均支持。
 - 开发目的：方便自己使用OneDrive直链分享
 - 详情参照：[http://www.chias.me/?p=103](http://www.chias.me/?p=103)
+- 
+#注意：由于微软OneDrive更新并且永久取消公开分享，已经无法再获取直链了，因此该工具已经失效！敬请各位留意。#
+##详情请参考：[http://www.chias.me/?p=436](http://www.chias.me/?p=436)##

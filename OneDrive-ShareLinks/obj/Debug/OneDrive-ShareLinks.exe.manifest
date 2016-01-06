@@ -58,14 +58,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="OneDrive-ShareLinks.exe" size="96768">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="OneDrive-ShareLinks.exe" size="96256">
       <assemblyIdentity name="OneDrive-ShareLinks" version="2.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>OtyLO+Pro2qYcMaoD3gMA/QbGqU=</dsig:DigestValue>
+        <dsig:DigestValue>tcyIoC/BBy/c7Rg8E6OBvEgVdZU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

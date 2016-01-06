@@ -26,3 +26,17 @@ H:\GitHub\OneDrive-ShareLinks\OneDrive-ShareLinks\obj\Debug\OneDrive-ShareLinks.
 H:\GitHub\OneDrive-ShareLinks\OneDrive-ShareLinks\obj\Debug\OneDrive-ShareLinks.TrustInfo.xml
 H:\GitHub\OneDrive-ShareLinks\OneDrive-ShareLinks\obj\Debug\OneDrive-ShareLinks.exe.manifest
 H:\GitHub\OneDrive-ShareLinks\OneDrive-ShareLinks\obj\Debug\OneDrive-ShareLinks.application
+G:\GitHub\OneDrive-ShareLinks\OneDrive-ShareLinks\bin\Debug\OneDrive-ShareLinks.exe.config
+G:\GitHub\OneDrive-ShareLinks\OneDrive-ShareLinks\obj\Debug\OneDrive-ShareLinks.exe
+G:\GitHub\OneDrive-ShareLinks\OneDrive-ShareLinks\obj\Debug\OneDrive-ShareLinks.pdb
+G:\GitHub\OneDrive-ShareLinks\OneDrive-ShareLinks\bin\Debug\OneDrive-ShareLinks.exe.manifest
+G:\GitHub\OneDrive-ShareLinks\OneDrive-ShareLinks\bin\Debug\OneDrive-ShareLinks.application
+G:\GitHub\OneDrive-ShareLinks\OneDrive-ShareLinks\bin\Debug\OneDrive-ShareLinks.exe
+G:\GitHub\OneDrive-ShareLinks\OneDrive-ShareLinks\bin\Debug\OneDrive-ShareLinks.pdb
+G:\GitHub\OneDrive-ShareLinks\OneDrive-ShareLinks\obj\Debug\OneDrive-ShareLinks.csprojResolveAssemblyReference.cache
+G:\GitHub\OneDrive-ShareLinks\OneDrive-ShareLinks\obj\Debug\OneDrive_ShareLinks.OneDriveShareLinks.resources
+G:\GitHub\OneDrive-ShareLinks\OneDrive-ShareLinks\obj\Debug\OneDrive_ShareLinks.Properties.Resources.resources
+G:\GitHub\OneDrive-ShareLinks\OneDrive-ShareLinks\obj\Debug\OneDrive-ShareLinks.csproj.GenerateResource.Cache
+G:\GitHub\OneDrive-ShareLinks\OneDrive-ShareLinks\obj\Debug\OneDrive-ShareLinks.TrustInfo.xml
+G:\GitHub\OneDrive-ShareLinks\OneDrive-ShareLinks\obj\Debug\OneDrive-ShareLinks.exe.manifest
+G:\GitHub\OneDrive-ShareLinks\OneDrive-ShareLinks\obj\Debug\OneDrive-ShareLinks.application

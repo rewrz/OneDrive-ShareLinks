@@ -4,7 +4,7 @@
   <description asmv2:iconFile="logo.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="OneDrive-ShareLinks" version="2.0.0.0" language="neutral" processorArchitecture="msil" />
+    <assemblyIdentity name="OneDrive-ShareLinks" version="3.0.0.0" publicKeyToken="17A97E354587C4A8" language="neutral" processorArchitecture="msil" />
     <commandLine file="OneDrive-ShareLinks.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -58,14 +58,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="OneDrive-ShareLinks.exe" size="96256">
-      <assemblyIdentity name="OneDrive-ShareLinks" version="2.0.0.0" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="OneDrive-ShareLinks.exe" size="96768">
+      <assemblyIdentity name="OneDrive-ShareLinks" version="3.0.0.0" publicKeyToken="17A97E354587C4A8" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>tcyIoC/BBy/c7Rg8E6OBvEgVdZU=</dsig:DigestValue>
+        <dsig:DigestValue>htvXBWnkSgf/anKTM6SCFkNVHaU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

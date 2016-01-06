@@ -4,14 +4,14 @@
   <description asmv2:publisher="OneDrive-ShareLinks" asmv2:product="OneDrive-ShareLinks" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <deployment install="true" mapFileExtensions="true" />
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="OneDrive-ShareLinks.exe.manifest" size="5922">
+    <dependentAssembly dependencyType="install" codebase="OneDrive-ShareLinks.exe.manifest" size="5990">
       <assemblyIdentity name="OneDrive-ShareLinks.exe" version="1.0.0.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>QkRTqzJJZ7fbLoTvaoyhHHpnzBE=</dsig:DigestValue>
+        <dsig:DigestValue>lamYCqA0MQaIr42KEsSVDic53CU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

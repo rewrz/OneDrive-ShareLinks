@@ -2,7 +2,6 @@
 
 ## 微软OneDrive网盘直链获取工具 ##
 
-<<<<<<< HEAD
 - 名称：	OneDrive-ShareLinks
 - 性质：	免费开源 开源协议：MIT
 - 开发：	ChIaS

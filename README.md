@@ -22,3 +22,11 @@
 感谢网友 [@Onedrive大法好](https://www.mrorz.com/?p=103#comment-103) 的提醒，更新链接规则，可以继续使用。
 
 详情请参考：[OneDrive直链获取工具OneDrive-ShareLinks-次元残垣|超次元研究](https://www.mrorz.com/?p=103)
+
+##update3:
+
+由于两个原因，本项目可能不再更新：
+
+1、微软规则又改了。三天两头改，稳定性就不好啦。而且对于Wordpress来说（其实是对我的博客网站来说...23333），缩略图失效了……
+
+2、微软痿了，OneDrive免费空间缩水。

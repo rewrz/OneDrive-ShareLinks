@@ -4,7 +4,7 @@
 
 - 名称：	OneDrive-ShareLinks
 - 性质：	免费开源 开源协议：MIT
-- 开发：	ChIaS
+- 开发：	Rewrz
 - 环境：	Microsoft Visual Studio
 - 			Microsoft .NET Framework 4.0
 - 旧的Windows系统可能需要安装Microsoft .NET Framework相应版本
